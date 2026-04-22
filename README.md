@@ -2,12 +2,15 @@
 
 I'm Juma, a Software Engineer based in the Bay Area.
 
-I love working on full-stack software solutions and enjoy the thrill of turning ideas into real products.
+I build backend systems, APIs, and AI-powered applications, and I enjoy the process of turning ideas into real products. 
 
-I usually have problems in my personal life that need simplifying, which leads me to build tools for myself. For example, I recently deployed **DSAP CLI — Algorithm Practice Scheduler**, a Python tool now used by **130+ monthly users** to schedule algorithm practice problems.  
-Check it out here: **[DSAP CLI on PyPI](https://pypi.org/project/dsap-cli/)**
+I usually have problems in my personal life that need simplifying, which leads me to build tools for myself. For example, 
+I built [AuthKit](https://github.com/juma-paul/authkit), <br />a self-hosted authentication platform I can reuse across my side 
+projects — live at [AuthKit Demo](https://authkit-demo-six.vercel.app). 
 
-I'm also working on an **auth service** that I can reuse across my side projects, and a **budgeting app** to replace the Excel sheets I currently use to track my finances.
+I also published [DSAP CLI](https://pypi.org/project/dsap-cli/), a Python tool actively used on PyPI to schedule algorithm 
+practice problems. I'm currently working on a budgeting app to replace the Excel sheets I use to track my finances, and an 
+agentic habit tracker to automate how I log daily habits.
 
 ---
 
